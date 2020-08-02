@@ -1,4 +1,4 @@
-# Vadim Korobka - Middle+ Front End Developer
+# Middle+ Front End Developer
 
 ## About
 
