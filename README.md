@@ -1,16 +1,36 @@
-### Hi there 👋
+# Vadim Korobka - Middle+ Front End Developer
 
-<!--
-**VadimKorobka/VadimKorobka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About
 
-Here are some ideas to get you started:
+I am a dedicated Front End Developer. The main thing in my life is development, both professional and personal.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Experience
+
+| Company            | Position                   | From       | To         | Responsibilities                                                   |
+| ------------------ | -------------------------- | ---------- | ---------- | ------------------------------------------------------------------ |
+| A-Level Ukraine    | Lecturer                   | 01.11.2019 | Present    | Lecturing, Mentorship, Code Review                                 |
+| Electron Community | Admin                      | 01.02.2019 | Present    | Administration and consulting                                      |
+| QArea              | Middle Front End Developer | 01.01.2018 | Present    | Designing, Development, CI/CD, Code Review, Mentorship, Consalting |
+| QArea              | Junior Front End Developer | 01.03.2017 | 01.01.2018 | Development, Bug Fixing etc                                        |
+
+## Achievements
+
+3rd place in the "ICPC" - The 2019 Ukraine Eastern Contest
+
+## Competence
+
+### TECHNOLOGIES(LOVE AND WANT):
+
+JavaScript, TypeScript, Electron, Redux, Redux-Saga, React, Electron Builder(All platforms), Webpack, Parcel, Gulp, Yarn, npm, Prettier, Eslint, Husky, Jest, Gitlab CI/CD, Git.
+
+### TECHNOLOGIES(HAVE SOME EXPERIENCE):
+
+AngularJS, C++(Node Addons), SCSS/HTML5, JSON-RPC, Rest, Python3, Bash/PS/CMD, Mocha, Jasmine, Selenium WebDriver, Github CI/CD.
+
+## Skills
+
+- Write effective and supported code
+- Estimate the task and discuss all issues
+- Conduct code review
+- Customize development processes
+- Сonfigure CI/CD
