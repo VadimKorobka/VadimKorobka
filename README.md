@@ -2,7 +2,7 @@
 
 ## About
 
-    I am a dedicated Front End Developer. The main thing in my life is development, both professional and personal.
+I am a dedicated Front End Developer. The main thing in my life is development, both professional and personal.
 
 ## Experience
 
@@ -15,17 +15,17 @@
 
 ## Achievements
 
-    3rd place in the "ICPC" - The 2019 Ukraine Eastern Contest
+3rd place in the "ICPC" - The 2019 Ukraine Eastern Contest
 
 ## Competence
 
 ### TECHNOLOGIES(LOVE AND WANT):
 
-    JavaScript, TypeScript, Electron, Redux, Redux-Saga, React, Electron Builder(All platforms), Webpack, Parcel, Gulp, Yarn, npm, Prettier, Eslint, Husky, Jest, Gitlab CI/CD, Git.
+JavaScript, TypeScript, Electron, Redux, Redux-Saga, React, Electron Builder(All platforms), Webpack, Parcel, Gulp, Yarn, npm, Prettier, Eslint, Husky, Jest, Gitlab CI/CD, Git.
 
 ### TECHNOLOGIES(HAVE SOME EXPERIENCE):
 
-    AngularJS, C++(Node Addons), SCSS/HTML5, JSON-RPC, Rest, Python3, Bash/PS/CMD, Mocha, Jasmine, Selenium WebDriver, Github CI/CD.
+AngularJS, C++(Node Addons), SCSS/HTML5, JSON-RPC, Rest, Python3, Bash/PS/CMD, Mocha, Jasmine, Selenium WebDriver, Github CI/CD.
 
 ## Skills
 
@@ -39,4 +39,4 @@
 
 ### SIMON KUZNETS KHARKIV NATIONAL UNIVERSITY OF ECONOMICS(2018 - 2022)
 
-    Economic Informatics - Computer Science
+- Economic Informatics - Computer Science
