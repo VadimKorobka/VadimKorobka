@@ -25,11 +25,11 @@ I am a dedicated Front End Developer. The main thing in my life is development, 
 
 ## Competence
 
-### TECHNOLOGIES(LOVE AND WANT):
+### Technologies(love and want):
 
 JavaScript, TypeScript, Electron, Redux, Redux-Saga, React, Electron Builder(All platforms), Webpack, Parcel, Gulp, Yarn, npm, Prettier, Eslint, Husky, Jest, Gitlab CI/CD, Git.
 
-### TECHNOLOGIES(HAVE SOME EXPERIENCE):
+### Technologies(have some experience):
 
 AngularJS, C++(Node Addons), SCSS/HTML5, JSON-RPC, Rest, Python3, Bash/PS/CMD, Mocha, Jasmine, Selenium WebDriver, Github CI/CD.
 
