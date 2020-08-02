@@ -43,6 +43,6 @@ AngularJS, C++(Node Addons), SCSS/HTML5, JSON-RPC, Rest, Python3, Bash/PS/CMD, M
 
 ## Education
 
-### SIMON KUZNETS KHARKIV NATIONAL UNIVERSITY OF ECONOMICS(2018 - 2022)
+### Simon Kuznets Kharkiv National University Of Economics(2018 - 2022)
 
 Economic Informatics - Computer Science
