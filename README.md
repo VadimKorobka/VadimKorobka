@@ -5,8 +5,8 @@
 I am a dedicated Front End Developer. The main thing in my life is development, both professional and personal.
 
 ## Contacts
-* <34455@mail.ua>
-* <skype:34455@mail.ua>
+* Email: <34455@mail.ua>
+* Skype: [34455@mail.ua](skype:43bf88763114b1ed)
 
 
 ## Experience
