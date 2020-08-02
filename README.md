@@ -5,9 +5,10 @@
 I am a dedicated Front End Developer. The main thing in my life is development, both professional and personal.
 
 ## Contacts
-* Email: <34455@mail.ua>
-* Skype: [34455@mail.ua](skype:43bf88763114b1ed)
 
+- [LinkedIn: in/vadim-korobka](https://www.linkedin.com/in/vadim-korobka/)
+- [Email: 34455@mail.ua](34455@mail.ua)
+- Skype: 34455@mail.ua
 
 ## Experience
 
