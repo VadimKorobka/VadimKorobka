@@ -7,7 +7,7 @@ I am a dedicated Front End Developer. The main thing in my life is development, 
 ## Contacts
 
 - [LinkedIn: in/vadim-korobka](https://www.linkedin.com/in/vadim-korobka/)
-- [Email: 34455@mail.ua](34455@mail.ua)
+- [Email: 34455@mail.ua](mailto://34455@mail.ua)
 - Skype: 34455@mail.ua
 
 ## Experience
