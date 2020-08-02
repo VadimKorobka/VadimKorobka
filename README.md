@@ -4,6 +4,11 @@
 
 I am a dedicated Front End Developer. The main thing in my life is development, both professional and personal.
 
+## Contacts
+* <34455@mail.ua>
+* <skype:34455@mail.ua>
+
+
 ## Experience
 
 | Company            | Position                   | From       | To         | Responsibilities                                                   |
@@ -39,4 +44,4 @@ AngularJS, C++(Node Addons), SCSS/HTML5, JSON-RPC, Rest, Python3, Bash/PS/CMD, M
 
 ### SIMON KUZNETS KHARKIV NATIONAL UNIVERSITY OF ECONOMICS(2018 - 2022)
 
-- Economic Informatics - Computer Science
+Economic Informatics - Computer Science
