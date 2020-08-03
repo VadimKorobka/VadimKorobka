@@ -1,4 +1,4 @@
-# Middle+ Front End Developer
+# Front End Developer
 
 ## About
 
@@ -16,8 +16,8 @@ I am a dedicated Front End Developer. The main thing in my life is development, 
 | ------------------ | -------------------------- | ---------- | ---------- | ------------------------------------------------------------------ |
 | A-Level Ukraine    | Lecturer                   | 01.11.2019 | Present    | Lecturing, Mentorship, Code Review                                 |
 | Electron Community | Admin                      | 01.02.2019 | Present    | Administration and consulting                                      |
-| QArea              | Middle Front End Developer | 01.01.2018 | Present    | Designing, Development, CI/CD, Code Review, Mentorship, Consalting |
-| QArea              | Junior Front End Developer | 01.03.2017 | 01.01.2018 | Development, Bug Fixing etc                                        |
+| QArea              | Middle FED                 | 01.01.2018 | Present    | Designing, Development, CI/CD, Code Review, Mentorship, Consalting |
+| QArea              | Junior FED                 | 01.03.2017 | 01.01.2018 | Development, Bug Fixing etc                                        |
 
 ## Achievements
 
@@ -43,6 +43,6 @@ AngularJS, C++(Node Addons), SCSS/HTML5, JSON-RPC, Rest, Python3, Bash/PS/CMD, M
 
 ## Education
 
-### Simon Kuznets Kharkiv National University Of Economics(2018 - 2022)
+### Simon Kuznets Kharkiv National University Of Economics
 
 Economic Informatics - Computer Science
