@@ -12,12 +12,13 @@ I am a dedicated Front End Developer. The main thing in my life is development, 
 
 ## Experience
 
-| Company            | Position                   | From       | To         | Responsibilities                                                   |
-| ------------------ | -------------------------- | ---------- | ---------- | ------------------------------------------------------------------ |
-| A-Level Ukraine    | Lecturer                   | 01.11.2019 | Present    | Lecturing, Mentorship, Code Review                                 |
-| Electron Community | Admin                      | 01.02.2019 | Present    | Administration and consulting                                      |
-| QArea              | Middle FED                 | 01.01.2018 | Present    | Designing, Development, CI/CD, Code Review, Mentorship, Consalting |
-| QArea              | Junior FED                 | 01.03.2017 | 01.01.2018 | Development, Bug Fixing etc                                        |
+| Company            | Position                      | From       | To         | Responsibilities                                                   |
+| ------------------ | ----------------------------- | ---------- | ---------- | ------------------------------------------------------------------ |
+| Sigma Software     | Software Developer            | 23.11.2020 | Present    | Designing, Development, CI/CD, Consalting                          |
+| A-Level Ukraine    | Lecturer                      | 01.11.2019 | Present    | Lecturing, Mentorship, Code Review                                 |
+| Electron Community | Admin                         | 01.02.2019 | Present    | Administration and consulting                                      |
+| QArea              | Middle FED                    | 01.01.2018 | 20.11.2020 | Designing, Development, CI/CD, Code Review, Mentorship, Consalting |
+| QArea              | Junior FED                    | 01.03.2017 | 01.01.2018 | Development, Bug Fixing etc                                        |
 
 ## Achievements
 
