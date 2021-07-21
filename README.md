@@ -12,13 +12,14 @@ I am a dedicated Front End Developer. The main thing in my life is development, 
 
 ## Experience
 
-| Company            | Position                      | From       | To         | Responsibilities                                                   |
-| ------------------ | ----------------------------- | ---------- | ---------- | ------------------------------------------------------------------ |
-| Sigma Software     | Software Developer            | 23.11.2020 | Present    | Designing, Development, CI/CD, Consalting                          |
-| A-Level Ukraine    | Lecturer                      | 01.11.2019 | Present    | Lecturing, Mentorship, Code Review                                 |
-| Electron Community | Admin                         | 01.02.2019 | Present    | Administration and consulting                                      |
-| QArea              | Middle FED                    | 01.01.2018 | 20.11.2020 | Designing, Development, CI/CD, Code Review, Mentorship, Consalting |
-| QArea              | Junior FED                    | 01.03.2017 | 01.01.2018 | Development, Bug Fixing etc                                        |
+| Company            | Position                         | From       | To         | Responsibilities                                                   |
+| ------------------ | ---------------------------------| ---------- | ---------- | ------------------------------------------------------------------ |
+| GlobalLogic        | Senior FED (React)               | 21.06.2021 | Present    | Designing, Development, Consalting                                 |
+| Electron Community | Admin (Electron)                 | 01.02.2019 | Present    | Administration and consulting                                      |
+| Sigma Software     | Full Stack Dev (Go + React)      | 23.11.2020 | 18.06.2021 | Designing, Development, CI/CD, Consalting                          |
+| A-Level Ukraine    | Lecturer (React)                 | 01.11.2019 | 01.01.2021 | Lecturing, Mentorship, Code Review                                 |
+| QArea              | Middle FED (React, Electron)     | 01.01.2018 | 20.11.2020 | Designing, Development, CI/CD, Code Review, Mentorship, Consalting |
+| QArea              | Junior FED (AngularJS, Electron) | 01.03.2017 | 01.01.2018 | Development, Bug Fixing etc                                        |
 
 ## Achievements
 
